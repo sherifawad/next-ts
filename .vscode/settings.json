@@ -6,5 +6,5 @@
 		"source.fixAll": "always"
 	},
 	"editor.wordWrap": "on",
-	"cSpell.words": ["Parens"]
+	"cSpell.words": ["commitlint", "Parens"]
 }
